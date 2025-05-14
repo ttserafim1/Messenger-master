@@ -1,0 +1,8 @@
+._dialog_button:hover {
+    transform: scale(0.95);
+    background-color: #282828;
+}
+
+._dialog_button {
+    cursor: pointer;
+}
